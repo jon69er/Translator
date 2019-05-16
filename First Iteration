@@ -1,0 +1,16 @@
+def translate (phrase):
+  translation = ""
+  for letter in phrase:
+    if phrase = "English"
+      translation = "Hello World!"
+    if phrase = "Spanish"
+    if phrase = "Mandarin"
+    if phrase = "Vietnamese"
+    if phrase = "German"
+    else: translation = "This language is not supported"
+   return translation
+   
+   print(translate(input("")))
+    
+    
+    
