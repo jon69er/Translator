@@ -4,9 +4,13 @@ def translate (phrase):
     if phrase = "English"
       translation = "Hello World!"
     if phrase = "Spanish"
-    if phrase = "Mandarin"
+      translation = "Hola Mundo!"
+    if phrase = "Chinese"
+      translation = "Nǐ hǎo, shìjiè!"
     if phrase = "Vietnamese"
+      translation = "Chào thế giới!"
     if phrase = "German"
+      translation = "Hallo Welt!"
     else: translation = "This language is not supported"
    return translation
    
